@@ -10,4 +10,4 @@ This repo contains an application that generates a quiz based on coding. The qui
 
 ## Link To Website
 
-https://mattchips.github.io/password-generator/
+https://mattchips.github.io/code-quiz-challenge/
